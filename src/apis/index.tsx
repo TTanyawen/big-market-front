@@ -1,6 +1,6 @@
 // 请求地址
-// const apiHostUrl = process.env.API_HOST_URL ? process.env.API_HOST_URL : "https://console-mock.apipost.cn/mock/6afa907d-6678-45e2-b867-032a11090abd";
-const apiHostUrl = "http://localhost:8091"
+const apiHostUrl = process.env.API_HOST_URL ? process.env.API_HOST_URL : "https://console-mock.apipost.cn/mock/6afa907d-6678-45e2-b867-032a11090abd";
+// const apiHostUrl = "http://localhost:8091"
 
 /**
  * 装配抽奖
